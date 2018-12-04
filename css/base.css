@@ -360,111 +360,111 @@ main {
 	display: initial;
 }
 
-.menu__item:nth-child(2)::before {
+.menu__item.second-point::before {
 	background: linear-gradient(45deg, #0947db, #07d89d);
 }
 
-.menu__item:nth-child(3)::before {
+.menu__item.third-point::before {
 	background: linear-gradient(45deg, #ee2d29, #f8ae2c);
 }
 
-.menu__item:nth-child(4)::before {
+.menu__item.four-point::before {
 	background: linear-gradient(45deg, #3a3d98, #6f22b9);
 }
 
-.menu__item:nth-child(5)::before {
+.menu__item.five-point::before {
 	background: linear-gradient(45deg, #9d316e, #de2d3e);
 }
 
-.menu__item:nth-child(6)::before {
+.menu__item.six-point::before {
 	background: linear-gradient(45deg, #00ac53, #23c3e0);
 }
 
-.menu__item:nth-child(7)::before {
+.menu__item.seven-point::before {
 	background: linear-gradient(45deg, #0947db, #07d89d);
 }
 
-.menu__item:nth-child(8)::before {
+.menu__item.eight-point::before {
 	background: linear-gradient(45deg, #0947db, #de2d3e);
 }
 
-.menu__item:nth-child(9)::before {
+.menu__item.nine-point::before {
 	background: linear-gradient(45deg, #0947db, #6f22b9);
 }
 
-.menu__item:nth-child(10)::before {
+.menu__item.ten-point::before {
 	background: linear-gradient(45deg, #0947db, #f8ae2c);
 }
 
-.menu__item:nth-child(11)::before {
+.menu__item.eleven-point::before {
 	background: linear-gradient(45deg, #0947db, #23c3e0);
 }
 
-.menu__item:nth-child(12)::before {
+.menu__item.twelve-point::before {
 	background: linear-gradient(45deg, #0947db, #ee2d29);
 }
 
-.menu__item:nth-child(13)::before {
+.menu__item.thirteen-point::before {
 	background: linear-gradient(45deg, #0947db, #3a3d98);
 }
 
-.menu__item:nth-child(14)::before {
+.menu__item.forteen-point::before {
 	background: linear-gradient(45deg, #0947db, #9d316e);
 }
 
-.menu__item:nth-child(15)::before {
+.menu__item.fiveteen-point::before {
 	background: linear-gradient(45deg, #0947db, #00ac53);
 }
 
-.menu__item:nth-child(16)::before {
+.menu__item.sixteen-point::before {
 	background: linear-gradient(45deg, #00ac53, #07d89d);
 }
 
-.menu__item:nth-child(17)::before {
+.menu__item.seventeen-point::before {
 	background: linear-gradient(45deg, #9d316e, #07d89d);
 }
 
-.menu__item:nth-child(18)::before {
+.menu__item.eighteen-point::before {
 	background: linear-gradient(45deg, #ee2d29, #07d89d);
 }
 
-.menu__item:nth-child(19)::before {
+.menu__item.nine-point::before {
 	background: linear-gradient(45deg, #23c3e0, #07d89d);
 }
 
-.menu__item:nth-child(20)::before {
+.menu__item.twenty-point::before {
 	background: linear-gradient(45deg, #f8ae2c, #07d89d);
 }
 
-.menu__item:nth-child(21)::before {
+.menu__item.twentyone-point::before {
 	background: linear-gradient(45deg, #6f22b9, #07d89d);
 }
 
-.menu__item:nth-child(22)::before {
+.menu__item.twentytwo-point::before {
 	background: linear-gradient(45deg, #de2d3e, #07d89d);
 }
 
-.menu__item:nth-child(23)::before {
+.menu__item.twentythree-point::before {
 	background: linear-gradient(45deg, #6f22b9, #f8ae2c);
 }
 
-.menu__item:nth-child(24)::before {
+.menu__item.twentyfour-point::before {
 	background: linear-gradient(45deg, #ee2d29, #6f22b9);
 }
 
-.menu__item:nth-child(25)::before {
+.menu__item.twentyfive-point::before {
 	background: linear-gradient(45deg, #e86c9a, #07d89d);
 }
 
-.menu__item:nth-child(26)::before {
+.menu__item.twentysix-point::before {
 	background: linear-gradient(45deg, #e86c9a, #ee2d29);
 }
 
-.menu__item:nth-child(27)::before {
+.menu__item.twentyseven-point::before {
 	background: linear-gradient(45deg, #23c3e0, #e86c9a);
 }
 
-.menu__item:nth-child(28)::before {
+.menu__item.twentyeight-point::before {
 	background: linear-gradient(45deg, #07d89d, #f19872);
 }
 	
@@ -833,6 +833,125 @@ hr.divider {
 	background-color: transparent;
     border: 0;
     color: white;
+}
+
+.filtro-building {
+	position: absolute;
+    z-index: 3;
+	top: 10px;
+	transition: 0.9s;
+    opacity: 0;
+}
+
+.particles-js {
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	background-color: transparent;
+	transition: 0.9s;
+}
+
+.persona {
+	/* position: absolute; */
+    width: 200px;
+    height: 200px;
+}
+
+.persona:before {
+	content: '';
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: yellow;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-left: -15px;
+	margin-top: -15px;
+	display: block;
+	z-index: 2;
+}
+
+.persona:nth-of-type(2):before {
+	background: #00287a;
+}
+
+.constelacion {
+	display: flex;
+    flex-wrap: wrap;
+    border-radius: 100%;
+    width: 590px;
+    height: 500px;
+}
+
+.conste-first-point {
+	opacity: 0;
+	left: -460px;
+    position: absolute;
+    top: -40px;
+}
+
+.conste-second-point {
+	opacity: 0;
+	left: -280px;
+    position: absolute;
+    top: -116px;
+}
+
+.conste-six-point {
+	opacity: 0;
+	left: -280px;
+    position: absolute;
+    top: -116px;
+}
+
+.conste-seven-point {
+	opacity: 0;
+	left: -260px;
+    position: absolute;
+    top: -16px;
+}
+
+.conste-eight-point {
+	opacity: 0;
+	left: -366px;
+    position: absolute;
+    top: -251px;
+}
+
+.conste-ten-point {
+	opacity: 0;
+	left: -482px;
+    position: absolute;
+    top: -171px;
+}
+
+.conste-eleven-point {
+	opacity: 0;
+	left: 48px;
+    position: absolute;
+    top: 9px;
+}
+
+.conste-twelve-point {
+	opacity: 0;
+	left: 90px;
+    position: absolute;
+    top: -31px;
+}
+
+.conste-thirteen-point {
+	opacity: 0;
+	left: -240px;
+    position: absolute;
+    top: 9px;
+}
+
+.conste-forteen-point {
+	opacity: 0;
+	left: -240px;
+    position: absolute;
+    top: 9px;
 }
 
 @media screen and (max-width: 55em) {

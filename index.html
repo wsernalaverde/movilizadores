@@ -12,6 +12,7 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<link rel="stylesheet" type="text/css" href="css/base.css" />
 		<script>document.documentElement.className="js";var supportsCssVars=function(){var e,t=document.createElement("style");return t.innerHTML="root: { --tmp-var: bold; }",document.head.appendChild(t),e=!!(window.CSS&&window.CSS.supports&&window.CSS.supports("font-weight","var(--tmp-var)")),t.parentNode.removeChild(t),e};supportsCssVars()||alert("Please view this demo in a modern browser that supports CSS Variables.");</script>
+		<script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
 	</head>
 	<body class="demo-1">
 		<div>
@@ -26,7 +27,115 @@
 		<main>
 			<div class="content">
 				<img id="building-img" src="./bancolombia_nave.png" alt="">
+				<img class="filtro-building" src="./filtro.png" alt="">
 				<nav class="menu">
+					<div class="constelacion conste-first-point">
+							<div class="persona" style="left: -140px;">
+								<div id="particles-1" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-2" class="particles-js"></div>
+							</div>
+					</div>
+					<div class="constelacion conste-second-point">
+							<div class="persona" style="left: -140px;">
+								<div id="particles-2-1" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-2-2" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-2-3" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-2-4" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-2-5" class="particles-js"></div>
+							</div>
+							<div class="persona" style="left: -140px;">
+								<div id="particles-2-6" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-2-7" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-2-8" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-2-9" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-2-10" class="particles-js"></div>
+							</div>
+					</div>
+					<div class="constelacion conste-six-point">
+							<div class="persona" style="left: -140px;">
+								<div id="particles-6-1" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-6-2" class="particles-js"></div>
+							</div>
+					</div>
+					<div class="constelacion conste-seven-point">
+							<div class="persona" style="left: -140px;">
+								<div id="particles-7-1" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-7-2" class="particles-js"></div>
+							</div>
+					</div>
+					<div class="constelacion conste-eight-point">
+							<div class="persona" style="left: -140px;">
+								<div id="particles-8-1" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-8-2" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-8-3" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-8-4" class="particles-js"></div>
+							</div>
+					</div>
+					<div class="constelacion conste-ten-point">
+							<div class="persona" style="left: -140px;">
+								<div id="particles-10-1" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-10-2" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-10-3" class="particles-js"></div>
+							</div>
+							<div class="persona">
+									<div id="particles-10-4" class="particles-js"></div>
+							</div>
+					</div>
+					<div class="constelacion conste-eleven-point">
+							<div class="persona">
+								<div id="particles-11-1" class="particles-js"></div>
+							</div>
+					</div>
+					<div class="constelacion conste-twelve-point">
+							<div class="persona">
+								<div id="particles-12-1" class="particles-js"></div>
+							</div>
+							<div class="persona">
+								<div id="particles-12-2" class="particles-js"></div>
+							</div>
+					</div>
+					<div class="constelacion conste-thirteen-point">
+							<div class="persona">
+								<div id="particles-13-1" class="particles-js"></div>
+							</div>
+					</div>
+					<div class="constelacion conste-forteen-point">
+							<div class="persona">
+								<div id="particles-14-1" class="particles-js"></div>
+							</div>
+					</div>
 					<a href="#" class="menu__item first-point"><div class="text-menu">VP. UNIDAD ESTRATEGICA ASSET MANAGEMENT</div></a>
 					<a href="#" class="menu__item second-point"><div class="text-menu">VP. AUDITORÍA</div></a>
 					<a href="#" class="menu__item third-point"><div class="text-menu">VP. JURÍDICA</div></a>
@@ -1196,5 +1305,68 @@
 		<script src="js/anime.min.js"></script>
 		<script src="js/demo.js"></script>
 		<script src="js/main.js"></script>
+		<script src="js/constelaciones.js"></script>
+		<script>
+				$('.menu__item').hover(function () {
+						$('.filtro-building').css('opacity', '1')
+						$('.menu__item').css('opacity', '0.4')
+						$(this).css('opacity', '1')
+						$('.particles-js').css('opacity', '1')
+					}, function () {
+						$('.filtro-building').css('opacity', '0')
+						$('.menu__item').css('opacity', '1')
+						$('.particles-js').css('opacity', '0')
+				})
+				$('.first-point').hover(function () {
+						$('.conste-first-point').css('opacity', '1')
+					}, function () {
+						$('.conste-first-point').css('opacity', '0')
+				})
+				$('.second-point').hover(function () {
+						$('.conste-second-point').css('opacity', '1')
+					}, function () {
+						$('.conste-second-point').css('opacity', '0')
+				})
+				$('.six-point').hover(function () {
+						$('.conste-six-point').css('opacity', '1')
+					}, function () {
+						$('.conste-six-point').css('opacity', '0')
+				})
+				$('.seven-point').hover(function () {
+						$('.conste-seven-point').css('opacity', '1')
+					}, function () {
+						$('.conste-seven-point').css('opacity', '0')
+				})
+				$('.eight-point').hover(function () {
+						$('.conste-eight-point').css('opacity', '1')
+					}, function () {
+						$('.conste-eight-point').css('opacity', '0')
+				})
+				$('.ten-point').hover(function () {
+						$('.conste-ten-point').css('opacity', '1')
+					}, function () {
+						$('.conste-ten-point').css('opacity', '0')
+				})
+				$('.eleven-point').hover(function () {
+						$('.conste-eleven-point').css('opacity', '1')
+					}, function () {
+						$('.conste-eleven-point').css('opacity', '0')
+				})
+				$('.twelve-point').hover(function () {
+						$('.conste-twelve-point').css('opacity', '1')
+					}, function () {
+						$('.conste-twelve-point').css('opacity', '0')
+				})
+				$('.thirteen-point').hover(function () {
+						$('.conste-thirteen-point').css('opacity', '1')
+					}, function () {
+						$('.conste-thirteen-point').css('opacity', '0')
+				})
+				$('.forteen-point').hover(function () {
+						$('.conste-forteen-point').css('opacity', '1')
+					}, function () {
+						$('.conste-forteen-point').css('opacity', '0')
+				})
+			</script>
 	</body>
 </html>
