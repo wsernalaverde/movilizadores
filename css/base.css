@@ -657,7 +657,7 @@ main {
 }
 
 .nineteen-point {
-    left: 93px;
+    left: -97px;
     top: 60px;
 }
 
@@ -697,8 +697,8 @@ main {
 }
 
 .twentyseven-point {
-	left: 70px;
-    top: 110px;
+	left: 90px;
+    top: 20px;
 }
 
 .twentyeight-point {
@@ -706,10 +706,13 @@ main {
     top: 70px;
 }
 
+.cont-logo {
+	text-align: center;
+}
+
 .logo-movilizadores {
 	z-index: 99;
     position: relative;
-    width: 100%;
 }
 
 .cont-movilizadores {
@@ -724,6 +727,7 @@ main {
     text-align: center;
 	margin: 70px 20px;
 	position: relative;
+	flex: 1;
 }
 
 .title-movilizador {
@@ -744,7 +748,7 @@ main {
 
 .cont-hr {
 	position: relative;
-    margin: 8px 0;
+    margin: 21px 0;
 }
 
 hr.right-decoration {
@@ -965,7 +969,7 @@ hr.divider {
 	opacity: 0;
 	left: -460px;
     position: absolute;
-    top: -40px;
+    top: -160px;
 }
 
 .conste-second-point {
@@ -1089,7 +1093,7 @@ hr.divider {
 
 .conste-nineteen-point {
 	opacity: 0;
-    left: -100px;
+    left: -290px;
     position: absolute;
     top: -161px;
 }
@@ -1145,9 +1149,9 @@ hr.divider {
 
 .conste-twentyseven-point {
 	opacity: 0;
-    left: -117px;
+    left: -107px;
     position: absolute;
-    top: -101px;
+    top: -191px;
 }
 
 .conste-twentyeight-point {
@@ -1169,6 +1173,7 @@ hr.divider {
     width: 250px;
 	transition: 0.4s;
 	opacity: 0;
+	z-index: 22;
 }
 
 .cont-total-persona::after {
@@ -1204,6 +1209,59 @@ hr.divider {
 .cont-total-persona  p:last-child {
 	padding: 0;
 	border: 0;
+}
+
+.menu-planets {
+	position: absolute;
+	z-index: 22;
+	display: flex;
+	margin-top: -70px;
+}
+
+.menu-planets a {
+	margin: 0 50px;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu-planets a:hover, .menu-planets a:focus {
+	color: #ea2172
+}
+
+.cont-img-planet {
+	display: flex;
+    align-items: center;
+	min-height: 125px;
+}
+
+.menu-planets span {
+	font-weight: 700;
+}
+
+.cont-info-movilizador-ppal h2 {
+	margin-top: 5px;
+	font-size: 17px;
+}
+
+.cont-info-movilizador-ppal p {
+	margin-bottom: 5px;
+	font-size: 13px;
+}
+
+.cont-cifras {
+	z-index: 33;
+    display: flex;
+    width: 100%;
+}
+
+.cont-cifras div {
+	flex: 1;
+}
+
+.cont-cifras img {
+	max-width: 100%;
 }
 
 @media screen and (max-width: 55em) {
