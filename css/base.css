@@ -195,9 +195,12 @@ main {
 }
 
 .content__close {
-	position: absolute;
+	/*position: absolute;
 	top: 55%;
-	left: 50%;
+	left: 50%;*/
+	position: fixed;
+    top: 140px;
+    left: 80px;
 	background: none;
 	color: var(--color-link);
 	border: 1px solid;
@@ -1275,6 +1278,7 @@ hr.divider {
 	background-color: rgba(4, 43, 110, 0.77);
 	left: 40px;
     bottom: 360px;
+	transition: 0.3s;
 }
 
 .cont-total-general h1 {
@@ -1306,6 +1310,44 @@ hr.divider {
 	color: #88f2ff;
     font-size: 23px;
     font-weight: 700;
+}
+
+.cont-impacts .cont-movilizadores {
+	flex-wrap: wrap;
+    padding: 0 170px;
+}
+
+.cont-impacts .cont-movilizador {
+	max-width: 295px;
+	min-width: 295px;
+}
+
+.cont-impacts .cont-movilizador .cont-ilustracion {
+	margin-bottom: 10px;
+}
+
+.cont-impacts .cont-movilizador .cont-info-movilizador-ppal p {
+	margin-bottom: 0;
+}
+
+.cont-impacts .cont-movilizador .cont-info-movilizador-ppal span {
+	font-size: 22px;
+    color: #00f2ff;
+    font-weight: 700;
+}
+
+.cont-impacts .cont-movilizador .cont-info-movilizador-ppal .cont-hr {
+	margin: 10px 0;
+}
+
+.cont-impacts .cont-movilizador .cont-info-movilizador-ppal h2 {
+	text-transform: capitalize;
+}
+
+.cont-impacts .cont-movilizador .cont-name {
+	text-transform: uppercase !important;
+    font-size: 10px;
+    padding: 0 10px;
 }
 
 @media screen and (max-width: 55em) {

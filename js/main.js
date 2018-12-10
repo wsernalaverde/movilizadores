@@ -167,7 +167,11 @@
     let current;
     const open = (pos) => {
         let building =  document.getElementById("building-img");
+        let total = document.querySelector('.cont-total-general');
+        let menuPlanet = document.querySelector('.menu-planets');
         building.classList.add("hide-img");
+        total.classList.add("hide-img");
+        menuPlanet.classList.add("hide-img");
         this.isOpen = true;
         anime({
             targets: DOM.links.map((link) => link.querySelectorAll('span')),
@@ -203,7 +207,11 @@
 
     const close = () => {
         let building =  document.getElementById("building-img");
+        let total = document.querySelector('.cont-total-general');
+        let menuPlanet = document.querySelector('.menu-planets');
         building.classList.remove("hide-img");
+        total.classList.remove("hide-img");
+        menuPlanet.classList.remove("hide-img");
         if ( !this.isOpen ) return;
         this.isOpen = false;
         
