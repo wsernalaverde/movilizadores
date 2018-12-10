@@ -1446,6 +1446,454 @@ const personas = {
     ],
     'mov-innovacion': [
         {
+            'name': 'JOHANNA PATRICIA ROBINSON HERNANDEZ',
+            'img': 'johanarobisnson.png',
+            'descripton': '',
+            'impacts': {
+                total: 165,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Innovación'
+        },
+        {
+            'name': 'MARIA ALEJANDRA ALVAREZ ARANGO',
+            'img': 'mariaalejandraalvarez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 34,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Innovación'
+        },
+        {
+            'name': 'NESTOR JULIO ARIAS MONA',
+            'img': 'nestorjulioarias.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Agilidad del Negocio TI'
+        },
+        {
+            'name': 'NATALIA ARROYAVE CADAVID',
+            'img': 'nataliaarroyave.png',
+            'descripton': '--',
+            'impacts': {
+                total: 3,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Centro de Servicios de Diseño de Experiencia'
+        },
+        {
+            'name': 'JOSE DAVID BARRERA MEDINA',
+            'img': 'josedavidbarreara.png',
+            'descripton': '--',
+            'impacts': {
+                total: 268,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Innovación'
+        },
+        {
+            'name': 'TATIANA CAÑAS OROZCO',
+            'img': 'tatianacanaso.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Transformación e Innovación'
+        },
+        {
+            'name': 'LILIANA MARIA CORREA LONDOÑO',
+            'img': 'lilianacorrea.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Promesa Dígital'
+        },
+        {
+            'name': 'JUAN PABLO DIAZ BERMUDEZ',
+            'img': 'juanpablodiaz.png',
+            'descripton': '--',
+            'impacts': {
+                total: 30,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Innovación'
+        },
+        {
+            'name': 'LEWIS ARMANDO DIAZ SUAREZ',
+            'img': 'lewisdiaz.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Innovación'
+        },
+        {
+            'name': 'MONICA ECHEVERRY OSORIO',
+            'img': 'monicaecheverri.png',
+            'descripton': '--',
+            'impacts': {
+                total: 20,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Innovación'
+        },
+        {
+            'name': 'MARIA ANTONIA GAVIRIA HERNANDEZ',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 35,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Innovación'
+        },
+        {
+            'name': 'DANIEL ENRIQUE GUALTERO AGUIRRE',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Innovación'
+        },
+        {
+            'name': 'GEORVIS JOHAN LEAL PARIATA',
+            'img': 'georvisleal.png',
+            'descripton': '--',
+            'impacts': {
+                total: 20,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Innovación'
+        },
+        {
+            'name': 'ANDRÉS LOPEZ MONTOYA',
+            'img': 'andreslopez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Innovación'
+        },
+        {
+            'name': 'DANIELA OSORIO RESTREPO',
+            'img': 'danielaosorio.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Agilidad del Negocio TI'
+        },
+        {
+            'name': 'ANDRÉS FELIPE PERILLA RODRIGUEZ',
+            'img': 'andresperilla.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Gerencia de Sostenibilidad'
+        },
+        {
+            'name': 'JUAN DAVID RESTREPO DEL TORO',
+            'img': 'juandavid.png',
+            'descripton': '--',
+            'impacts': {
+                total: 125,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Alianzas Estrategicas E'
+        }
+    ],
+    'mov-juridica': [
+        {
+            'name': 'DANIEL ALBERTO ACOSTA GUEVARA',
+            'img': 'danielalbertoacosta.png',
+            'descripton': '',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Jurídica Nal de Empresas y Gobierno'
+        },
+        {
+            'name': 'MARIA LOURDES DURAN ORTEGA',
+            'img': 'mariaduran.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Jurídica de Factoring'
+        },
+        {
+            'name': 'DOMINGO OCHY MARIN',
+            'img': 'domingoochy.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Banca Personas y Pymes'
+        },
+        {
+            'name': 'NICOLAS VANEGAS ALZATE',
+            'img': 'nicolasvanegas.png',
+            'descripton': '--',
+            'impacts': {
+                total: 90,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección Jurídica Fiduciaria'
+        }
+    ],
+    'mov-administrativos': [
+        {
+            'name': 'JUAN GUILLERMO ARISTIZABAL TORRES',
+            'img': 'juangaristizabal.png',
+            'descripton': '',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección Activos Fijos e Inmobiliaria'
+        },
+        {
+            'name': 'JOHANA FERNANDA CARDONA CASTRO',
+            'img': 'johanafcardona.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Conciliación y Cobranza'
+        },
+        {
+            'name': 'JULIANA FRANCO MUÑOZ',
+            'img': 'julianfranco.png',
+            'descripton': '--',
+            'impacts': {
+                total: 15,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Conciliación y Cobranza'
+        },
+        {
+            'name': 'MARIA ALEJANDRA GAVIRIA LONDOÑO',
+            'img': 'alejandragaviria.png',
+            'descripton': '--',
+            'impacts': {
+                total: 3,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Análitica de Cumplimiento'
+        },
+        {
+            'name': 'NATALIA GIL ARIAS',
+            'img': 'nataliagilarias.png',
+            'descripton': '--',
+            'impacts': {
+                total: 25,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Estrategia de Abastecimiento y Terc'
+        },
+        {
+            'name': 'MARIA ISABEL OROZCO RESTREPO',
+            'img': 'mariaisabelorozco.png',
+            'descripton': '--',
+            'impacts': {
+                total: 20,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Gobierno y Desarrollo de Proveedores'
+        },
+        {
+            'name': 'TATIANA RUIZ HERRERA',
+            'img': 'tatianaruiz.png',
+            'descripton': '--',
+            'impacts': {
+                total: 25,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Sección Administración de Portafolio'
+        },
+        {
+            'name': 'DENINSON ALBERTO SANCHEZ FORERO',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 450,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Logística Integral'
+        },
+        {
+            'name': 'ANDRES FELIPE VIANA CASAS',
+            'img': 'andresviana.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Estrategia de Abastecimiento y Terc'
+        },
+        {
+            'name': 'SARA ESTHER GUTIERREZ SARMIENTO',
+            'img': 'saragutierrez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 8,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Canales de Cobranza'
+        },
+        {
+            'name': 'ALEJANDRA ARENAS NORENA',
+            'img': 'alejandraarenas.png',
+            'descripton': '--',
+            'impacts': {
+                total: 2,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Servicios de Cobranza'
+        },
+        {
+            'name': 'MONICA LUCIA CARDENAS CANO',
+            'img': 'monicacardenas.png',
+            'descripton': '--',
+            'impacts': {
+                total: 31,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Servicios de Cobranza'
+        }
+    ],
+    'mov-clientes': [
+        {
+            'name': 'LYZ DAYANA HENAO BONILLA',
+            'img': 'lyzdayanahenaobonilla.png',
+            'descripton': '',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Gerencia de servicios regionales Bogotá'
+        },
+        {
+            'name': 'JUAN CAMILO DIAZ OCAMPO',
+            'img': 'juancamilodiaz.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Sección Cartera Libranza'
+        },
+        {
+            'name': 'LUISA FERNANDA MOLINA DUQUE',
+            'img': 'luisamolina.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Operación Dígital'
+        },
+        {
+            'name': 'YOLANDA DEL SOCORRO MORALES AGUIRRE',
+            'img': 'yolandamorales.png',
+            'descripton': '--',
+            'impacts': {
+                total: 36,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Sección Monitoreo'
+        },
+        {
+            'name': 'JUAN FERNANDO VELEZ HOYOS',
+            'img': 'juanfernandovelez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 110,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Integración y Gestión de Servicios'
+        },
+        {
+            'name': 'VANESSA BERMUDEZ GUTIERREZ',
+            'img': 'vanessabermudez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Implementación de Serv Estrategicos 2'
+        },
+        {
+            'name': 'SANDRA MILENA COLONIA DUQUE',
+            'img': 'sandracolonia.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Canales, Gerencia de corresponsales bancarios'
+        }
+    ],
+    'mov-corporativos': [
+        {
             'name': 'test',
             'img': 'no-photo.png',
             'descripton': '',
@@ -1578,50 +2026,17 @@ const personas = {
             direccion: '--'
         }
     ],
-    'mov-juridica': [
+    'mov-leasing': [
         {
-            'name': 'DANIEL ALBERTO ACOSTA GUEVARA',
-            'img': 'danielalbertoacosta.png',
+            'name': 'NATALIA ANDREA ZAPATA DUQUE',
+            'img': 'nataliazapata.png',
             'descripton': '',
             'impacts': {
-                total: 0,
+                total: 32,
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: 'GCIA Jurídica Nal de Empresas y Gobierno'
-        },
-        {
-            'name': 'MARIA LOURDES DURAN ORTEGA',
-            'img': 'mariaduran.png',
-            'descripton': '--',
-            'impacts': {
-                total: 0,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: 'GCIA Jurídica de Factoring'
-        },
-        {
-            'name': 'DOMINGO OCHY MARIN',
-            'img': 'domingoochy.png',
-            'descripton': '--',
-            'impacts': {
-                total: 0,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: 'GCIA Banca Personas y Pymes'
-        },
-        {
-            'name': 'NICOLAS VANEGAS ALZATE',
-            'img': 'nicolasvanegas.png',
-            'descripton': '--',
-            'impacts': {
-                total: 90,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: 'Dirección Jurídica Fiduciaria'
+            direccion: 'GCIA Creación y Mantenimiento Productos'
         }
     ]
 }
