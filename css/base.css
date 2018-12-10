@@ -1350,6 +1350,11 @@ hr.divider {
     padding: 0 10px;
 }
 
+.cont-proyects-card .cont-movilizador {
+    min-width: 296px;
+    min-height: 464px;
+}
+
 @media screen and (max-width: 55em) {
 	.message {
 		display: block;
