@@ -3,7 +3,7 @@ const personas = {
         {
             'name': 'DAVID ALDANA ARÉVALO',
             'img': 'davidaldana.png',
-            'descripton': '',
+            'descripton': 'Sesión de Ideación para búsqueda de segmentos/ empresas. (ii) Sesión de Ideación ara Cambio de Estructura (iii) Planeación Estratégica Participaciñon Proyecto de Ideación cambio de estructura (impacto en recursos no cuantificable).',
             'impacts': {
                 total: 103,
                 facilitacion: 0,
@@ -14,7 +14,7 @@ const personas = {
         {
             'name': 'NICOLAS VALDERRAMA RENGIFO',
             'img': 'nicolasvalderrama.png',
-            'descripton': '--',
+            'descripton': 'Hizo parte de la creación de un comité de evaluación para resolver retos del área, ha realizado capacitaciones en temas de innovación y sesiones de ideación para resolver dudas de la alta gerencia. Adicionalmente, participó como voluntario en una sesión de innovación de la Fundación Bancolombia y esta fundación ganó los recursos por parte del Banco.',
             'impacts': {
                 total: 30,
                 facilitacion: 0,
@@ -1894,18 +1894,513 @@ const personas = {
     ],
     'mov-corporativos': [
         {
-            'name': 'test',
-            'img': 'no-photo.png',
+            'name': 'SUJHEIRIS NAVARRO CASTILLO',
+            'img': 'sujheirisnavarro.png',
             'descripton': '',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
                 asesoria:  0
             },
+            direccion: 'GCIA Servicios Beg'
+        },
+        {
+            'name': 'CLAUDIA PATRICIA ACEVEDO JARAMILLO',
+            'img': 'claudiaacevedo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Portafolio Innovación Trans Dígital y Medios de Pago'
+        },
+        {
+            'name': 'CAROLINA AGUILAR',
+            'img': 'carolinaaguilar.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Portafolio Innovación Trans Dígital y Medios de Pago'
+        },
+        {
+            'name': 'ERICK ALEXANDER ALVARADO ZELAYA',
+            'img': 'erickalvarado.png',
+            'descripton': '--',
+            'impacts': {
+                total: 15,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Calidad y Eficiencia'
+        },
+        {
+            'name': 'CARLOS ESTEBAN ALVAREZ LOPEZ',
+            'img': 'estebanalvarez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 7,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Transformación Serv Coorporativos'
+        },
+        {
+            'name': 'MONICA ARBOLEDA GUTIERREZ',
+            'img': 'monicaarboleda.png',
+            'descripton': '--',
+            'impacts': {
+                total: 15,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Transformación de Clientes'
+        },
+        {
+            'name': 'JENNIFER ARROYAVE RUEDA',
+            'img': 'jennifferarroyabe.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'PMO Personas y Pymes'
+        },
+        {
+            'name': 'LAURA ARTEAGA ESTRADA',
+            'img': 'lauraateaga.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Gerencia PMO Corporativa'
+        },
+        {
+            'name': 'JUAN FELIPE ATEHORTUA ARANGO',
+            'img': 'juanatehortua.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección Transf Y Proy Personas Pyme e Innov'
+        },
+        {
+            'name': 'FRANCIA MARINA AVILA MARQUEZ',
+            'img': 'franciaavila.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Seguridad Transaccional y Analítica'
+        },
+        {
+            'name': 'JESSIE ALEJANDRA AYALA PATERNINA',
+            'img': 'jesssiealejandraayala.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Transformación e Innovación'
+        },
+        {
+            'name': 'LUISA BEGUE HOYOS',
+            'img': 'luisabague.png',
+            'descripton': '--',
+            'impacts': {
+                total: 18,
+                facilitacion: 0,
+                asesoria:  0
+            },
             direccion: '--'
         },
         {
-            'name': 'test',
+            'name': 'ESTEBAN BUSTAMANTE CAMARGO',
+            'img': 'estebanbustamante.png',
+            'descripton': '--',
+            'impacts': {
+                total: 5,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'JUAN CAMILO CARDONA GOMEZ',
+            'img': 'camilocardona.png',
+            'descripton': '--',
+            'impacts': {
+                total: 100,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'SILVIA PAULINA CARDONA GÓMEZ',
+            'img': 'silviapaulinacardona.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'LUIS CARRERA CHAVEZ',
+            'img': 'luiscarrera.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'DIEGO ANDRES CASTAÑO GRAJALES',
+            'img': 'diegoandrescastano.png',
+            'descripton': '--',
+            'impacts': {
+                total: 21,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'PAUL ESTEBAN CASTAÑO OSORIO',
+            'img': 'paulcastano.png',
+            'descripton': '--',
+            'impacts': {
+                total: 14,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'LUIS GABRIEL CASTRO MONTOYA',
+            'img': 'luisgabrielcastro.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'ANDRES DAVID CHICA VILLA',
+            'img': 'andreschica.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'SARA CHUNG PARK',
+            'img': 'sarachung.png',
+            'descripton': '--',
+            'impacts': {
+                total: 106,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'LLYZETH PAOLA CORDERO KERGUELEN',
+            'img': 'paolacordero.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'ANGÉLICA MARÍA CORREA CARMONA',
+            'img': 'angelicacorrea.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'LUZ MARY CORREA ZAPATA',
+            'img': 'luzmerycorre.png',
+            'descripton': '--',
+            'impacts': {
+                total: 6,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'ALEJANDRA CRUZ GAVIRIA',
+            'img': 'alejandracruz.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'JULIANA DIAZ YEPES',
+            'img': 'juliandiaz.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'ROBERTO DE JESUS ECHANDIA POSADA',
+            'img': 'robertoechandia.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'ADRIANA ESTRADA PIEDRAHITA',
+            'img': 'drianaestreda.png',
+            'descripton': '--',
+            'impacts': {
+                total: 5,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'MARIA CRISTINA ESTRADA RESTREPO',
+            'img': 'mariacristinaestrada.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'CARLOS ANDRES FERNANDEZ VELASQUEZ',
+            'img': 'carlosafernandez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 350,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'CAMILA LORENA ELIZABETH FIGUEROA CASTELLANOS',
+            'img': 'camilafigueroa.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'DIANA MARITZA GALLEGO JIMENEZ',
+            'img': 'dianagallego.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'MONICA CECILIA GALLEGO RENGIFO',
+            'img': 'monicagallego.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'DANIELA GARCES MUÑOZ',
+            'img': 'danielagarces.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'CLAUDIA PATRICIA GIRALDO RAMIREZ',
+            'img': 'claudiagiraldo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'PAULA MARCELA GOMEZ HENAO',
+            'img': 'paulamgomez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'PEDRO GOMEZ MEZA',
+            'img': 'pedrogomezmeza.png',
+            'descripton': '--',
+            'impacts': {
+                total: 10,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'JUAN CAMILO GONZALEZ ARANGO',
+            'img': 'juancamilogonzales.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'MARIA ISABEL HENAO NARANJO',
+            'img': 'mariaisabelhenao.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'CAROLINA HERNANDEZ TORRES',
+            'img': 'carolinahernandez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'JUAN CAMILO LARGO GOMEZ',
+            'img': 'juancamilolargo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'ISABEL CRISTINA LONDOÑO MESA',
+            'img': 'isabelcristinalondono.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'LUIS CARLOS LOPEZ ÁLVAREZ',
+            'img': 'luis-carlos-lopez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'FRANCY LORENA MARIN ALVAREZ',
+            'img': 'francylorenamarin.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'ANDRÉS DAVID MARQUEZ BENITEZ',
+            'img': 'andresmarquez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'LUISA FERNANDA MARTINEZ MORENO',
+            'img': 'luisafmartinez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'PAOLA YAMILE MAYA RAMIREZ',
             'img': 'no-photo.png',
             'descripton': '--',
             'impacts': {
@@ -1916,8 +2411,19 @@ const personas = {
             direccion: '--'
         },
         {
-            'name': 'test',
-            'img': 'no-photo.png',
+            'name': 'JORGE ANDRÉS METAUTE CARDONA',
+            'img': 'jorgeandresmetaute.png',
+            'descripton': '--',
+            'impacts': {
+                total: 21,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'MARIA SANDRA MONSALVE CASAS',
+            'img': 'mariamonsalve.png',
             'descripton': '--',
             'impacts': {
                 total: 0,
@@ -1927,8 +2433,8 @@ const personas = {
             direccion: '--'
         },
         {
-            'name': 'test',
-            'img': 'no-photo.png',
+            'name': 'MARIO ALEJANDRO MONTOYA FLOREZ',
+            'img': 'mariomontoya.png',
             'descripton': '--',
             'impacts': {
                 total: 0,
@@ -1938,85 +2444,8 @@ const personas = {
             direccion: '--'
         },
         {
-            'name': 'test',
-            'img': 'no-photo.png',
-            'descripton': '--',
-            'impacts': {
-                total: 0,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: '--'
-        },
-        {
-            'name': 'test',
-            'img': 'no-photo.png',
-            'descripton': '--',
-            'impacts': {
-                total: 0,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: '--'
-        },
-        {
-            'name': 'test',
-            'img': 'no-photo.png',
-            'descripton': '--',
-            'impacts': {
-                total: 0,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: '--'
-        },
-        {
-            'name': 'test',
-            'img': 'no-photo.png',
-            'descripton': '--',
-            'impacts': {
-                total: 0,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: '--'
-        },
-        {
-            'name': 'test',
-            'img': 'no-photo.png',
-            'descripton': '--',
-            'impacts': {
-                total: 0,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: '--'
-        },
-        {
-            'name': 'test',
-            'img': 'no-photo.png',
-            'descripton': '--',
-            'impacts': {
-                total: 0,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: '--'
-        },
-        {
-            'name': 'test',
-            'img': 'no-photo.png',
-            'descripton': '--',
-            'impacts': {
-                total: 0,
-                facilitacion: 0,
-                asesoria:  0
-            },
-            direccion: '--'
-        },
-        {
-            'name': 'test',
-            'img': 'no-photo.png',
+            'name': 'YULIANA MILENA MONTOYA QUINTERO',
+            'img': 'yulianammontoya.png',
             'descripton': '--',
             'impacts': {
                 total: 0,
