@@ -2023,7 +2023,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Gerencia PMO Corporativa'
         },
         {
             'name': 'ESTEBAN BUSTAMANTE CAMARGO',
@@ -2034,7 +2034,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección Transf Proyectos Funciones Corporativas'
         },
         {
             'name': 'JUAN CAMILO CARDONA GOMEZ',
@@ -2045,7 +2045,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA PMO Corporativa'
         },
         {
             'name': 'SILVIA PAULINA CARDONA GÓMEZ',
@@ -2056,7 +2056,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección de Servicios Corporativos'
         },
         {
             'name': 'LUIS CARRERA CHAVEZ',
@@ -2067,7 +2067,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Tarjeta de Crédito'
         },
         {
             'name': 'DIEGO ANDRES CASTAÑO GRAJALES',
@@ -2078,7 +2078,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección de Transformación y Proyectos Funciones Corporativas'
         },
         {
             'name': 'PAUL ESTEBAN CASTAÑO OSORIO',
@@ -2089,7 +2089,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección de Transformación de Jornadas Dígitales'
         },
         {
             'name': 'LUIS GABRIEL CASTRO MONTOYA',
@@ -2100,7 +2100,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Transformación de Clientes'
         },
         {
             'name': 'ANDRES DAVID CHICA VILLA',
@@ -2111,7 +2111,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Portafolio Canales Mandela'
         },
         {
             'name': 'SARA CHUNG PARK',
@@ -2122,7 +2122,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Metodologías y Métricas de Proyecto'
         },
         {
             'name': 'LLYZETH PAOLA CORDERO KERGUELEN',
@@ -2133,7 +2133,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Sección Portafolio Cash Management'
         },
         {
             'name': 'ANGÉLICA MARÍA CORREA CARMONA',
@@ -2144,7 +2144,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Transformación y Proyectos Empresas y Gobierno'
         },
         {
             'name': 'LUZ MARY CORREA ZAPATA',
@@ -2155,7 +2155,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Portafolio Banca Empresas y Gobierno'
         },
         {
             'name': 'ALEJANDRA CRUZ GAVIRIA',
@@ -2166,7 +2166,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección Transf Unidades de Apoyo'
         },
         {
             'name': 'JULIANA DIAZ YEPES',
@@ -2177,7 +2177,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'PMO Empresas y Gobierno'
         },
         {
             'name': 'ROBERTO DE JESUS ECHANDIA POSADA',
@@ -2188,7 +2188,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Transformación Canales Físicos'
         },
         {
             'name': 'ADRIANA ESTRADA PIEDRAHITA',
@@ -2199,7 +2199,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'PMO Personas y Pymes'
         },
         {
             'name': 'MARIA CRISTINA ESTRADA RESTREPO',
@@ -2210,7 +2210,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección Transf y Proyectos Empresa y Gobierno'
         },
         {
             'name': 'CARLOS ANDRES FERNANDEZ VELASQUEZ',
@@ -2221,7 +2221,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección Transf Unidades de Apoyo'
         },
         {
             'name': 'CAMILA LORENA ELIZABETH FIGUEROA CASTELLANOS',
@@ -2232,7 +2232,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Gerencia de Calidad y Eficiencia'
         },
         {
             'name': 'DIANA MARITZA GALLEGO JIMENEZ',
@@ -2243,7 +2243,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Transformación Canales Físicos'
         },
         {
             'name': 'MONICA CECILIA GALLEGO RENGIFO',
@@ -2254,7 +2254,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Trans Medios de Pago y Seguros'
         },
         {
             'name': 'DANIELA GARCES MUÑOZ',
@@ -2265,7 +2265,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Portafolio de Mercados Capitales'
         },
         {
             'name': 'CLAUDIA PATRICIA GIRALDO RAMIREZ',
@@ -2276,7 +2276,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Trans Medios de Pago y Seguros'
         },
         {
             'name': 'PAULA MARCELA GOMEZ HENAO',
@@ -2287,7 +2287,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA PMO Corporativa'
         },
         {
             'name': 'PEDRO GOMEZ MEZA',
@@ -2298,7 +2298,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA PMO Corporativa'
         },
         {
             'name': 'JUAN CAMILO GONZALEZ ARANGO',
@@ -2309,7 +2309,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Portafolio Banca Empresas y Gobierno'
         },
         {
             'name': 'MARIA ISABEL HENAO NARANJO',
@@ -2320,7 +2320,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección Transf Proyectos Funciones Corporativas'
         },
         {
             'name': 'CAROLINA HERNANDEZ TORRES',
@@ -2331,7 +2331,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección de Proyectos de Transformación'
         },
         {
             'name': 'JUAN CAMILO LARGO GOMEZ',
@@ -2342,7 +2342,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección Tranf y Proyectos Personas Pyme e Innovación'
         },
         {
             'name': 'ISABEL CRISTINA LONDOÑO MESA',
@@ -2353,7 +2353,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección Transf Proyectos Funciones Corporativas'
         },
         {
             'name': 'LUIS CARLOS LOPEZ ÁLVAREZ',
@@ -2364,7 +2364,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección de transformación y proyectos personas y pymes'
         },
         {
             'name': 'FRANCY LORENA MARIN ALVAREZ',
@@ -2375,7 +2375,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección de transformación y proyectos empresas y gobierno'
         },
         {
             'name': 'ANDRÉS DAVID MARQUEZ BENITEZ',
@@ -2386,7 +2386,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección de Transformación y Proyectos Funciones Corporativas'
         },
         {
             'name': 'LUISA FERNANDA MARTINEZ MORENO',
@@ -2397,7 +2397,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Transformación Servicios Corporativos'
         },
         {
             'name': 'PAOLA YAMILE MAYA RAMIREZ',
@@ -2408,7 +2408,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Portafolio de Mercados Capitales'
         },
         {
             'name': 'JORGE ANDRÉS METAUTE CARDONA',
@@ -2419,7 +2419,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección de Transformación de Jornadas Dígitales'
         },
         {
             'name': 'MARIA SANDRA MONSALVE CASAS',
@@ -2430,7 +2430,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Transformación Ahorro y Crédito'
         },
         {
             'name': 'MARIO ALEJANDRO MONTOYA FLOREZ',
@@ -2441,7 +2441,7 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'GCIA Portafolio de Mercados Capitales'
         },
         {
             'name': 'YULIANA MILENA MONTOYA QUINTERO',
@@ -2452,7 +2452,194 @@ const personas = {
                 facilitacion: 0,
                 asesoria:  0
             },
-            direccion: '--'
+            direccion: 'Dirección Transf Unidades de Apoyo'
+        },
+        {
+            'name': 'LUIS DAVID NARANJO SANCHEZ',
+            'img': 'luisdavidnaranjo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 50,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Transformación Servicios Coorporativos'
+        },
+        {
+            'name': 'LENNIS OROZCO ARIAS',
+            'img': 'lennisorosco.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección Transformación hacia lo Dígital'
+        },
+        {
+            'name': 'MARCELA OROZCO CHAVEZ',
+            'img': 'marcelaorozcochavez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Transformación Servicios Coorporativos'
+        },
+        {
+            'name': 'JULIA ALEXANDRA ORREGO GARCIA',
+            'img': 'juliaalexandraorrego.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección Transf Unidades de Apoyo'
+        },
+        {
+            'name': 'YENNY PATRICIA PEREZ ISAZA',
+            'img': 'yennypatriciaperrez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección Transf Unidades de Apoyo'
+        },
+        {
+            'name': 'DIANA MILENA RAMIREZ AGUDELO',
+            'img': 'dianaramirez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 37,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Portafolio de Mercado de Capitales'
+        },
+        {
+            'name': 'MARIA CAMILA RESTREPO CANO',
+            'img': 'camilarestrepocano.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Portafolio Banca Empresas y Gobierno'
+        },
+        {
+            'name': 'LISSETTE CATALIANA RESTREPO VASQUEZ',
+            'img': 'lissetterestrepo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 125,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Portafolio Banca Empresas y Gobierno'
+        },
+        {
+            'name': 'DIANA MARCELA RIVILLAS CASTRILLON',
+            'img': 'dianamrivillas.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Transformación Servicios Coorporativos'
+        },
+        {
+            'name': 'SANDRA CATALINA SOTO LONDOÑO',
+            'img': 'sandrasoto.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Portafolio Banca Empresas y Gobierno'
+        },
+        {
+            'name': 'JUAN CAMILO SUÁREZ MONTAÑA',
+            'img': 'juancamilosuarez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 1,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de transformación y proyectos personas y pymes e innovación'
+        },
+        {
+            'name': 'OSCAR TAUTIVA GOMEZ',
+            'img': 'oscartativa.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Transformación Servicios Coorporativos'
+        },
+        {
+            'name': 'JEAN POOL TORO GUERRA',
+            'img': 'jeanpooltoro.png',
+            'descripton': '--',
+            'impacts': {
+                total: 15,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA de Transformación Servicios Corporativos'
+        },
+        {
+            'name': 'SANDRA MILENA VALENCIA TAFUR',
+            'img': 'sandravalencia.png',
+            'descripton': '--',
+            'impacts': {
+                total: 23,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Proyectos Corporativos'
+        },
+        {
+            'name': 'SANTIAGO VANEGAS HERNÁNDEZ',
+            'img': 'santiagovanegas.png',
+            'descripton': '--',
+            'impacts': {
+                total: 3,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'PMO Empresas y Gobierno'
+        },
+        {
+            'name': 'ALVARO JOSE VELASQUEZ HINCAPIE',
+            'img': 'alvarojosevelasquez.png',
+            'descripton': '--',
+            'impacts': {
+                total: 3,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'GCIA Centro de Servicios de Diseño de Experiencia'
+        },
+        {
+            'name': 'LAURA ZULUAGA OROZCO',
+            'img': 'laurazuluaga.png',
+            'descripton': '--',
+            'impacts': {
+                total: 5,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Dirección de Proyectos, Personas y Pyme'
         }
     ],
     'mov-leasing': [
