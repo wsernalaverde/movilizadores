@@ -3,7 +3,7 @@ const personas = {
         {
             'name': 'DAVID ALDANA ARÉVALO',
             'img': 'davidaldana.png',
-            'descripton': 'Sesión de Ideación para búsqueda de segmentos/ empresas. (ii) Sesión de Ideación ara Cambio de Estructura (iii) Planeación Estratégica Participaciñon Proyecto de Ideación cambio de estructura (impacto en recursos no cuantificable).',
+            'descripton': 'Ha facilitado sesiones de Ideación para búsqueda de segmentos, otras para el Cambio de Estructura y algunas planeaciones estratégicas.',
             'impacts': {
                 total: 103,
                 facilitacion: 0,
@@ -60,7 +60,7 @@ const personas = {
         {
             'name': 'LAURA VICTORIA ARANGO HOYOS',
             'img': 'lauraarango.png',
-            'descripton': '',
+            'descripton': 'En una transacción muy compleja reciente, propuso algunos cambios en la estructura que viabilizaban la transacción. Hoy participa en un Proyecto confidencial.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -95,7 +95,7 @@ const personas = {
         {
             'name': 'JUAN SEBASTIÁN GANTIVAR ALFARO',
             'img': 'juansebastiangantivar.png',
-            'descripton': '--',
+            'descripton': 'Propuso en su equipo trabajar desde un lugar diferente al normal, Simplificar documentos jurídicos y generar mayor cercanía con el área comercial. Participa en la implementación de la herramienta Time Manager para el área jurídica, la cual genera beneficios relacionados con el flujo de información, con el fin de mejorar los procesos del área. Actualmente está liderando un programa dentro de la gerencia para acercar a los abogados con los proyectos de innovación y diferentes formas de pensar y actuar.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -128,7 +128,7 @@ const personas = {
         {
             'name': 'CAROLINA JIMENEZ BUITRAGO',
             'img': 'carolinajimenez.png',
-            'descripton': '--',
+            'descripton': 'Aprendió  a nunca suponer, preguntar y no generar juicios.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -273,7 +273,7 @@ const personas = {
         {
             'name': 'MELISSA VIANA HENAO',
             'img': 'melisaviana.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto en su equipo Atreverse a experimentar, ver más allá de la analítica y ver lo que pasa a través de las interacciones con las personas. Después del programa tuvo su primera auditoría en El Salvador, momento para el cual gracias al reto en el que trabajaron, ya conocía el proceso de auditoría y además diferentes percepciones de usuarios de auditoría que le permitieron interactuar de manera más fluida con los mismos. Aplicaron parcialmente uno de los conceptos y los auditores de El Salvador quedaron muy contentos con la forma en que trabajaron.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -379,6 +379,28 @@ const personas = {
                 asesoria:  0
             },
             direccion: 'Auditoría Interna'
+        },
+        {
+            'name': 'JULIETA PAEZ',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'BEATRIZ ELENA OSORIO',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
         }
     ],
     'mov-pymes': [
@@ -429,7 +451,7 @@ const personas = {
         {
             'name': 'IRALDO AMETH BATISTA CISNEROS',
             'img': 'iraldobatista.png',
-            'descripton': '--',
+            'descripton': 'Hoy tiene habilidades en mejorar su organización, buscar diferentes vías para poder buscar una solución y mejorar su comunicación.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -528,7 +550,7 @@ const personas = {
         {
             'name': 'JOHN HENRY JARAMILLO PARRA',
             'img': 'johnhenryjaramillo.png',
-            'descripton': '--',
+            'descripton': 'Propuso nuevas maneras de hacer estrategias indagando con los equipos, usar una comunicación diferente a la ya establecidos por la dispersión de la regional y nuevas maneras de incentivar a los colaboradores. Lidera “Agro en las venas” hasta el momento 284 mil millones de desembolsos en créditos agro, posicionamiento del banco como promotor del agro y aumento de conocimiento del producto por parte de los colaboradores. Y “Banco más conveniente” capacitación en conocimiento de canales y productos a la red de sucursales mediante actividades lúdicas.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -539,7 +561,7 @@ const personas = {
         {
             'name': 'SIMON JARAMILLO CARVAJAL',
             'img': 'simonjaramilloc.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto procesos más simples, eficiencias en rentabilidad e iniciativas para facilitar el pago a los clientes. Ha liderado proyectos de Apis.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -550,7 +572,7 @@ const personas = {
         {
             'name': 'MARIA MERCEDES JIMENEZ OROZCO',
             'img': 'mariamercedesjimenez.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto Llevar una metodología de seguimiento semanal para validar los objetivos cumplidos, pensar en aliados externos para desarrollos en diferentes iniciativas, y realizar un Service design más juicioso para conocer lo que el cliente piensa y necesita. Participante de Estrategia de Apis: Nuevos negocios e ingresos para el Banco.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -572,7 +594,7 @@ const personas = {
         {
             'name': 'ALEXANDRA OROZCO MEJIA',
             'img': 'no-photo.png',
-            'descripton': '--',
+            'descripton': 'Ha Facilitado equipos.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -583,7 +605,7 @@ const personas = {
         {
             'name': 'INGRID ADRIANA RAMIREZ NIETO',
             'img': 'ingridramirez.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto nuevas formas diferentes de interactuar con los grupos y actividades más disruptivas. Estaba antes como ejecutiva MIT en Banca Personas y Pyme y gracias a las habilidades logró ingresar al área a la cual pertenece y donde había descubierto durante su participación en Movilizadores que quería estar.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -618,7 +640,7 @@ const personas = {
         {
             'name': 'FERNANDO MEDINA SALGADO',
             'img': 'fernandomedina.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto mejorar las reuniones de zona, los talleres challenger y las estrategias de servicio. Colideró el proyecto Impacto B, el cual resultó del programa de Movilizadores. Le gustaría implementar su trabajo de grado de la maestría, el cual trata sobre experiencia al empleado.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -651,7 +673,7 @@ const personas = {
         {
             'name': 'JOHANNA RUIZ CEBALLOS',
             'img': 'johannaruizceballos.png',
-            'descripton': 'Pensamiento Creatividad, Formas de Trabajo, Se ha realizado facilitaciones a todo el equipo de Banca de empresas, incluyendo a las células: Leasing, Unidad Transaccional, Moneda Extranjera, Banca Especializada.',
+            'descripton': 'Ha propuesto pensamiento creativo y Formas de Trabajo. Ha realizado facilitaciones a todo el equipo de Banca de empresas, incluyendo a las células: Leasing, Unidad Transaccional, Moneda Extranjera, Banca Especializada.',
             'impacts': {
                 total: 240,
                 facilitacion: 0,
@@ -706,7 +728,7 @@ const personas = {
         {
             'name': 'CAMILO ANDRES MONTOYA GAVIRIA',
             'img': 'camilomontoya.png',
-            'descripton': '--',
+            'descripton': 'A nivel de la Vicepresidencia de Asset Management se creó un equipo de trabajo, del cual hace parte, el cual busca facilitar la interacción de los miembros. Ese equipo ha propuesto actividades, lecturas, recomendaciones, entre otros; para que se desarrollen habilidades de comunicación e integración que faciliten el día a día. Sí, se enamoró de la Innovación hasta el punto que fue galardonado con la Beca Corporativa del Grupo para realizar una Maestría en el exterior sobre esta temática.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -781,6 +803,17 @@ const personas = {
                 asesoria:  0
             },
             direccion: 'GCIA Alianza Facturación Electrónica'
+        },
+        {
+            'name': 'ERIKA ASCENCIO',
+            'img': 'no-photo.png',
+            'descripton': '',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Gerencia Comercial Soluciones Inmobiliarias'
         }
     ],
     'mov-comunicaciones': [
@@ -906,13 +939,57 @@ const personas = {
                 asesoria:  0
             },
             direccion: 'GCIA Riesgo Operacional TI'
+        },
+        {
+            'name': 'DANIEL RAMÍREZ',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '-'
+        },
+        {
+            'name': 'DIANA PATRICIA PULIDO',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '-'
+        },
+        {
+            'name': 'SHIRLEY AZUCENA CORREA',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '-'
+        },
+        {
+            'name': 'BEATRIZ EUGENIA LÓPEZ',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '-'
         }
     ],
     'mov-tecnologia': [
         {
             'name': 'YENNI ANDREA CANO GIRALDO',
             'img': 'yenniandreacano.png',
-            'descripton': 'Disruptivo, Simple. Participante Cloud, participando en la transformación de la infraestructura tecnológica del grupo Bancolombia.',
+            'descripton': 'Ha propuesto hacer las cosas disruptivas y simples. Participante de Cloud, la transformación de la infraestructura tecnológica del grupo Bancolombia.',
             'impacts': {
                 total: 4,
                 facilitacion: 0,
@@ -956,7 +1033,7 @@ const personas = {
         {
             'name': 'MARYORY GOMEZ ORTIZ',
             'img': 'maryorygomez.png',
-            'descripton': '--',
+            'descripton': 'En su equipo propuso mejorar la forma como se envían los informes. Aprendió a indagar y preguntar más.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -967,7 +1044,7 @@ const personas = {
         {
             'name': 'DAVID ELIAS MARIN ARDILA',
             'img': 'davidmarin.png',
-            'descripton': 'Nueva forma de trabajo mediante Hubs. Un programa de intra-emprendimiento y un nuevo programa de movilizadores. Líder de los Hubs de innovación.',
+            'descripton': 'Ha propuesto una nueva forma de trabajo mediante los Hubs de Innovación, un programa de intra-emprendimiento y un nuevo programa de movilizadores. Hoy es Líder de los Hubs de innovación.',
             'impacts': {
                 total: 600,
                 facilitacion: 0,
@@ -1044,7 +1121,7 @@ const personas = {
         {
             'name': 'CESAR AUGUSTO ALVAREZ DIAZ',
             'img': 'casaralvarez.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto mejorar la administración de incidentes para su equipo, gestión a la disponibilidad de los Canales y trabajo en equipo para cumplir SLA.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1121,7 +1198,7 @@ const personas = {
         {
             'name': 'YASSIRA PEREA PALACIOS',
             'img': 'yassirapereapalacios.png',
-            'descripton': 'Diagnósticos basados en la investigación, movilización del conocimiento. Participante en INVESBOT, Vinculación Digital.',
+            'descripton': 'Ha propuesto diagnósticos basados en la investigación y movilización del conocimiento. Participante en INVESBOT y Vinculación Digital.',
             'impacts': {
                 total: 50,
                 facilitacion: 0,
@@ -1132,7 +1209,7 @@ const personas = {
         {
             'name': 'JORGE LUIS RENTERÍA ROA',
             'img': 'jorgerenteria.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto mejoras como: Equipo de transformación de procesos,  trabajo de campo para iniciativas del área y ciclos cortos facilitados. Lideró un proyecto con la fundación Bancolombia -y Fundación de trasplantados.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1154,7 +1231,7 @@ const personas = {
         {
             'name': 'GUSTAVO ALONSO RIVERA CORREA',
             'img': 'no-photo.png',
-            'descripton': 'Actividades, procesos, formas de trabajo. Participante BINTEC, Hackathon. Mejor uso de los recursos, generación de ideas, focalización de ideas, estructuración de propuestas.',
+            'descripton': 'En su equipo ha propuesto actividades, procesos, formas de trabajo. Participante en BINTEC y Hackathon. Contribuyendo al mejor uso de los recursos, la generación de ideas, la focalización de ideas y la estructuración de propuestas.',
             'impacts': {
                 total: 15,
                 facilitacion: 0,
@@ -1176,7 +1253,7 @@ const personas = {
         {
             'name': 'LEONARDO VARGAS SAMPEDRO',
             'img': 'leonardovargas.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto abrir espacios para la generación de ideas que ayuden a mejorar los procesos internos del área.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1187,7 +1264,7 @@ const personas = {
         {
             'name': 'JUAN FELIPE VILLA OROZCO',
             'img': 'juanfelipevilla.png',
-            'descripton': 'Herramientas de trabajo colaborativas, automatizar tareas operativas y repetitivas, tableros de control, etc. <br> En mi rol de lider, he tenido mucho contacto con diferentes proyectos que han beneficiado al Banco en diferentes aspectos y a través del equipo hemos apoyado la salida de estos proyectos. (Si quieren conversamos).',
+            'descripton': 'Ha propuesto herramientas de trabajo colaborativas, automatizar tareas operativas y repetitivas y tableros de control. En su rol de líder, ha tenido mucho contacto con diferentes proyectos que han beneficiado al Banco en diferentes aspectos y a través del equipo han apoyado la salida de estos proyectos.',
             'impacts': {
                 total: 40,
                 facilitacion: 0,
@@ -1209,7 +1286,7 @@ const personas = {
         {
             'name': 'DANIEL ZULUAGA VILLEGAS',
             'img': 'danielzuluaga.png',
-            'descripton': '<ul style="padding: 0 0 0 20px;"><li>Implementar Tablero de gestión financiera de TI</li><li>Programa de capacitación técnica</li><li>Simulador del gasto Laboral</li></ul> <br> Liderar un grupo de movilizadores. Tuvimos un impacto muy positivo en cambiarle la forma de trabajar a los movilizadores. Me contactaron en un área de tecnología para que les liderara la planeación estratégica y definimos cuales van a ser los proyectos más importantes que el equipo va a ejecutar.',
+            'descripton': 'Ha propuesto implementar un tablero de gestión financiera de TI, desarrollar un programa de capacitación técnica y un simulador del gasto Laboral. Lideró un grupo de movilizadores donde tuvieron un impacto muy positivo en cambiarle la forma de trabajar a los movilizadores. Lo contactaron en un área de tecnología para que les liderara la planeación estratégica y definieron cuáles van a ser los proyectos más importantes que el equipo va a ejecutar.',
             'impacts': {
                 total: 25,
                 facilitacion: 0,
@@ -1314,7 +1391,7 @@ const personas = {
         {
             'name': 'LAURA CARDONA ÁLVAREZ',
             'img': 'lauracardona.png',
-            'descripton': 'Propuse y realice un cambio sustancial en el sitio de la gerencia, recolectando la información mas valiosa, eliminando lo que no es necesario y proponiendo un look and feel más fresco y amigable. Próximamente realizaremos la planeación de la gerencia donde espero aplicar más todos los conocimientos adquiridos.',
+            'descripton': 'Propuso y realizó un cambio sustancial en el sitio de la gerencia, recolectando la información más valiosa, eliminando lo que no es necesario y proponiendo un look and feel más fresco y amigable. Realizarán la planeación de la gerencia donde espera aplicar más todos los conocimientos adquiridos.',
             'impacts': {
                 total: 2,
                 facilitacion: 0,
@@ -1325,7 +1402,7 @@ const personas = {
         {
             'name': 'JULIAN ROLDÁN FERNANDEZ',
             'img': 'julianroldan.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto pensar más en la necesidad del cliente, saber vender las ideas e interrogar más los sucesos. Para el año 2019, tendrá un proyecto en el cual realizará varias sesiones de innovación con su equipo de trabajo con le fin de mejorar las estrategias de cultura frente al cuidado de la seguridad y salud en el trabajo.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1358,7 +1435,7 @@ const personas = {
         {
             'name': 'ELVIA JOHANNA CADAVID JIMENEZ',
             'img': 'no-photo.png',
-            'descripton': '--',
+            'descripton': 'Los cambios propuestos han sido más de forma, en hacer las cosas de manera diferente desde lo que sus usuarios están esperando.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1413,7 +1490,7 @@ const personas = {
         {
             'name': 'LUIS GERARDO REYES CRUZ',
             'img': 'luisgerardoreyes.png',
-            'descripton': 'Utilización de metodologías centrada en las personas para los diseños de servicio que hacemos para empleados. Resolución creativa de problemas. Proyecto PyME Banco Agrícola - Instalar el modelo de negocio PyME junto con los dueños funcionales del área. Diseño de modelo corporativo de experiencias para empleados. Gracias al programa participe becado este año en la maestría de innovación con h2i, además fui ascendido de Banco Agrícola en El Salvador hacia el corporativo de Gestión de lo humano.',
+            'descripton': 'Ha propuesto la utilización de metodologías centrada en las personas para los diseños de servicio para los empleados y la resolución creativa de problemas. Lideró el Proyecto PyME Banco Agrícola, donde se busca instalar el modelo de negocio PyME junto con los dueños funcionales del área. Diseño de modelo corporativo de experiencias para empleados. Gracias al programa participó becado este año en la maestría de innovación con h2i, además fue ascendido de Banco Agrícola en El Salvador hacia el corporativo de Gestión de lo humano.',
             'impacts': {
                 total: 300,
                 facilitacion: 0,
@@ -1424,7 +1501,7 @@ const personas = {
         {
             'name': 'MAURICIO OLAZABAL CHAVEZ',
             'img': 'mauriciolazabal.png',
-            'descripton': 'Generar sesiones de ideación. 2. Hacer una pregunta a la vez, cuando entrevistamos. 3. Introducir rompehielos en las reuniones de trabajo. Experiencia del Empleado, Lazos, Aventúrate, Tu Cuento También Cuenta, Gestión del Cambio en Proyectos Estratégicos como, Sistemática Comercial, Pyme, Conexión y Conectados.',
+            'descripton': 'Ha contribuido a generar sesiones de ideación, hacer una pregunta a la vez, cuando entrevistan e introducir rompehielos en las reuniones de trabajo. Ha participado en proyectos como: Experiencia del Empleado, Lazos, Aventúrate, Tu Cuento También Cuenta, Gestión del Cambio, Sistemática Comercial, Pyme, Conexión y Conectados.',
             'impacts': {
                 total: 110,
                 facilitacion: 0,
@@ -1448,7 +1525,7 @@ const personas = {
         {
             'name': 'JOHANNA PATRICIA ROBINSON HERNANDEZ',
             'img': 'johanarobisnson.png',
-            'descripton': 'Metodología scrum, proyecto de vacaciones',
+            'descripton': 'Ha propuesto metodología scrum y participa en el “proyecto de vacaciones”',
             'impacts': {
                 total: 165,
                 facilitacion: 0,
@@ -1459,7 +1536,7 @@ const personas = {
         {
             'name': 'MARIA ALEJANDRA ALVAREZ ARANGO',
             'img': 'mariaalejandraalvarez.png',
-            'descripton': '--',
+            'descripton': '34 personas impactadas. Vicepresidencia de Tecnología e Innovación. Ha propuesto diferentes metodologías que contribuyen al mejor desarrollo de los proyectos realizados en el programa de Movilizadores. Lideró 2 grupos de Movilizadores y presentó para la dirección, el impacto generado por el programa durante sus 3 años de ejecución. Ha sido mentora en 2 equipos en las semanas de Design Thinking y Actualmente contribuye al diseño y planificación de un nuevo programa liderado por la dirección de Innovación.',
             'impacts': {
                 total: 34,
                 facilitacion: 0,
@@ -1503,7 +1580,7 @@ const personas = {
         {
             'name': 'TATIANA CAÑAS OROZCO',
             'img': 'tatianacanaso.png',
-            'descripton': 'Hacer más trabajo en espacio inspiradores, salir de la rutina. 2) que todos nos involucremos en conocer más y mejor las necesidades del negocio, no solo en los clientes. <br> Lider de Sitio de negocios Nequi, es el sitio donde ofrecemos las soluciones que tenemos en Nequi para las empresas (Sticker Nequi, Cobros Nequi y Botón Nequi). Con ésta solución esperamos tener en el corto plazo tener 3.000 empresas o pequeños negocios vinculados cobrando con Nequi.',
+            'descripton': 'Ha propuesto trabajar en espacios inspiradores, salir de la rutina. Adicionalmente, a que su equipo piense tanto en las necesidades del negocio como del cliente. Líder de Sitio de negocios Nequi, donde se ofrecen las soluciones para las empresas. Con esta solución esperan tener en el corto plazo 3.000 empresas o pequeños negocios vinculados cobrando con Nequi.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1569,7 +1646,7 @@ const personas = {
         {
             'name': 'DANIEL ENRIQUE GUALTERO AGUIRRE',
             'img': 'no-photo.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto acelerar la experimentación de los programas de Movilizadores y cambiar la forma de realizar los ABC de formación. Líder del programa de Movilizadores con un impacto aproximado de Transformación cultural y generación de proyectos por más de 10 mil millones de pesos.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1591,7 +1668,7 @@ const personas = {
         {
             'name': 'ANDRÉS LOPEZ MONTOYA',
             'img': 'andreslopez.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto mejores formas de trabajar y la capacidad de cuestionar. Hoy participa en un Hub de innovación.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1613,7 +1690,7 @@ const personas = {
         {
             'name': 'ANDRÉS FELIPE PERILLA RODRIGUEZ',
             'img': 'andresperilla.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto en su equipo mejorar la forma de las reuniones del equipo y de presentar resultados. Participa en el Proyecto Ecosistema Agro.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1648,7 +1725,7 @@ const personas = {
         {
             'name': 'MARIA LOURDES DURAN ORTEGA',
             'img': 'mariaduran.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto la simplificación y rediseño de contratos, nuevas formas de trabajo, digitalización documental, trabajo en equipo, tolerancia al fracaso e incertidumbre. Y ha participado en proyectos de Mesas de innovación, para apoyar proyectos de empresas con fines sociales.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1677,6 +1754,28 @@ const personas = {
                 asesoria:  0
             },
             direccion: 'Dirección Jurídica Fiduciaria'
+        },
+        {
+            'name': 'CATALINA CÁRDENAS',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: '--'
+        },
+        {
+            'name': 'SUSANA GÓMEZ CORREA',
+            'img': 'no-photo.png',
+            'descripton': '--',
+            'impacts': {
+                total: 0,
+                facilitacion: 0,
+                asesoria:  0
+            },
+            direccion: 'Gerencia Jurídica Transaccional'
         }
     ],
     'mov-administrativos': [
@@ -1694,7 +1793,7 @@ const personas = {
         {
             'name': 'JOHANA FERNANDA CARDONA CASTRO',
             'img': 'johanafcardona.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto mejorar la comunicación con las áreas que trabajan para lograr mejores sinergias y la dedicación por corto tiempo exclusivamente a un solo tema para lograr más eficiencia.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1804,7 +1903,7 @@ const personas = {
         {
             'name': 'MONICA LUCIA CARDENAS CANO',
             'img': 'monicacardenas.png',
-            'descripton': 'Aplicar algunas de las metodologías aprendidas en los temas asignados. Autopista cartera hipotecaria para aliados, disminución de tiempos de respuesta del proceso y de cara al cliente, mejorando también el servicio.',
+            'descripton': 'Ha contribuido a aplicar algunas de las metodologías aprendidas en los temas asignados. Lidera el proyecto “Autopista cartera hipotecaria para aliados” logrando la disminución de tiempos de respuesta del proceso y de cara al cliente, mejorando también el servicio.',
             'impacts': {
                 total: 31,
                 facilitacion: 0,
@@ -1817,7 +1916,7 @@ const personas = {
         {
             'name': 'LYZ DAYANA HENAO BONILLA',
             'img': 'lyzdayanahenaobonilla.png',
-            'descripton': '',
+            'descripton': 'Ha propuesto diseñar hallazgos en cada uno de los puestos para identificar qué dificultades se presentan en el desarrollo del cargo, pensar de una manera diferente sin temor al no e identificar las habilidades que hay en cada uno de los integrantes del equipo, escribir ideas que generan en el día a día. Desde su gerencia se tiene propuesto implementar un semillero de innovación en donde cooperen entre compañeros del área para desarrollar ideas creativas.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1828,7 +1927,7 @@ const personas = {
         {
             'name': 'JUAN CAMILO DIAZ OCAMPO',
             'img': 'juancamilodiaz.png',
-            'descripton': '--',
+            'descripton': 'Aprendió a observar más y mejor, escuchar y experimentar.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1839,7 +1938,7 @@ const personas = {
         {
             'name': 'LUISA FERNANDA MOLINA DUQUE',
             'img': 'luisamolina.png',
-            'descripton': '--',
+            'descripton': 'Aprendió de facilitación y apoyo con la metodología de diseño.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1883,7 +1982,7 @@ const personas = {
         {
             'name': 'SANDRA MILENA COLONIA DUQUE',
             'img': 'sandracolonia.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto desarrollar Lean Startup para análisis de situaciones con el equipo de analistas.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1896,7 +1995,7 @@ const personas = {
         {
             'name': 'SUJHEIRIS NAVARRO CASTILLO',
             'img': 'sujheirisnavarro.png',
-            'descripton': 'Mejoras en proceso de overnigth (alto riesgo) 2mejoras en reportes para confirmaciones bancarias 3mejoras en las cartas para apertura de dpf.',
+            'descripton': 'Ha propuesto mejoras en proceso de overnigth (alto riesgo), mejoras en reportes para confirmaciones bancarias  y mejoras en las cartas para apertura de PDF.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1929,7 +2028,7 @@ const personas = {
         {
             'name': 'ERICK ALEXANDER ALVARADO ZELAYA',
             'img': 'erickalvarado.png',
-            'descripton': 'Ideario de mejora en procesos internos para agilizar planteamientos de proyectos.',
+            'descripton': 'Ha propuesto un ideario de mejora en procesos internos para agilizar planteamientos de proyectos.',
             'impacts': {
                 total: 15,
                 facilitacion: 0,
@@ -1940,7 +2039,7 @@ const personas = {
         {
             'name': 'CARLOS ESTEBAN ALVAREZ LOPEZ',
             'img': 'estebanalvarez.png',
-            'descripton': 'En mi equipo de trabajo en el manejo de las iniciativas Express, pero el proyecto Experiencia de Journey Seguridad si he podido trabajar con el equipo en muchos temas basados en el cliente que han generado valor entre ellos rediseño de la línea de seguridad opción 2 -2. Líder Journey Cliente experiencia Seguridad  PMO29019',
+            'descripton': 'Ha propuesto el manejo de las iniciativas Express y en el proyecto “Experiencia de Journey Seguridad” ha trabajado con el equipo en muchos temas basados en el cliente y en el rediseño de la línea de seguridad opción 2 -2. Líder en el “Journey Cliente experiencia Seguridad”',
             'impacts': {
                 total: 7,
                 facilitacion: 0,
@@ -1973,7 +2072,7 @@ const personas = {
         {
             'name': 'LAURA ARTEAGA ESTRADA',
             'img': 'lauraateaga.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto cuestionar al usuario cuando les lleva una nueva necesidad para identificar realmente el problema antes de proponer las soluciones. Lidera el proyecto “Wolf” un cambio aplicativo de caja. Cuentas Interbancarias Sucursal Panamá, cuyo objetivo es habilitar cuentas corrientes para Bancos del Grupo, versionamiento, Gestión Documental Filiales del Exterior. Otro proyecto es implementar nueva versión de Oracle para el manejo documental de la Filial. Y finalmente, el proyecto de traslado Traslado del aplicativo SLI de GBM a Niquía.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -1984,7 +2083,7 @@ const personas = {
         {
             'name': 'JUAN FELIPE ATEHORTUA ARANGO',
             'img': 'juanatehortua.png',
-            'descripton': 'No implementar proyectos de cara a clientes externos sin que pasen por ejercicio de innovación. Hacer mesas de invocación para pequeñas para necesidades que nos encontremos en los proyectos.',
+            'descripton': 'Ha propuesto no implementar proyectos de cara a clientes externos sin que pasen por el proceso de innovación, hacer mesas de innovación para necesidades que se encuentren en los proyectos.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2039,7 +2138,7 @@ const personas = {
         {
             'name': 'JUAN CAMILO CARDONA GOMEZ',
             'img': 'camilocardona.png',
-            'descripton': 'Pensar más desde las necesidades y no de las soluciones. Al menos identificar cuándo estamos partiendo de soluciones y no de necesidades nos ha ayudado a dar una pequeña vuelta. Proyecto PAM - Es un proyecto que tiene como finalidad el monitoreo transaccional de tarjeta de crédito. La verdad recibí el proyecto como líder en una etapa muy avanzada. Pero los conocimiento que adquirí en movilizadores me han ayudado a promover entre los usuarios un tema de ganancias tempranas y renunciar a alcances adicionales argumentando desde lo que verdaderamente necesitan los clientes y no lo que necesitan ellos como usuarios.  //// Proyecto THANOS - Soy el líder desde la PMO y desde el comienzo estamos pensando en equivocarnos rápido. Realizamos el proceso de RFI-RFP y no contratamos inmediatamente, estamos buscando la forma de probar la solución en producción y definir si es lo que necesita el cliente o no.',
+            'descripton': 'Ha propuesto pensar más desde las necesidades y no de las soluciones. Es Líder del proyecto “PAM” - Un proyecto que tiene como finalidad el monitoreo transaccional de tarjeta de crédito. El conocimiento adquirido en movilizadores le ha ayudado a promover entre los usuarios un tema de ganancias tempranas y renunciar a alcances adicionales, argumentando desde lo que verdaderamente necesitan los clientes.  , es el líder desde la PMO del proyecto THANOS y desde el comienzo están pensando en equivocarse rápido. Realizan el proceso de RFI-RFP y no contratan inmediatamente.',
             'impacts': {
                 total: 100,
                 facilitacion: 0,
@@ -2105,7 +2204,7 @@ const personas = {
         {
             'name': 'ANDRES DAVID CHICA VILLA',
             'img': 'andreschica.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto una mayor investigación con clientes. Ha participado en proyectos como: Experiencia Digital Pyme (EDPYME), Experiencia Digital del Inversionista (EDIN) y Nueva Billetera Móvil.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2116,7 +2215,7 @@ const personas = {
         {
             'name': 'SARA CHUNG PARK',
             'img': 'sarachung.png',
-            'descripton': 'En la PMO estuve apoyando los proyectos de reportes legales, cadena de abastecimiento, activos fijos, nómina. Ahora me encuentro comenzando el HUB de innovación de Canales Digitales, he aportado perspectivas desde otros puntos de vista, contactos en toda la organización, conocimiento financiero.',
+            'descripton': 'En la PMO estuvo apoyando los proyectos de Reportes legales, Cadena de abastecimiento, Activos fijos y Nómina. Ahora se encuentra en el HUB de innovación de Canales Digitales, ha aportado perspectivas desde otros puntos de vista, contactos en toda la organización y conocimiento financiero.',
             'impacts': {
                 total: 106,
                 facilitacion: 0,
@@ -2127,7 +2226,7 @@ const personas = {
         {
             'name': 'LLYZETH PAOLA CORDERO KERGUELEN',
             'img': 'paolacordero.png',
-            'descripton': 'Voluntariado Fundación Bancolombia - reto Universidad de la Sábana.',
+            'descripton': 'Hizo parte del Voluntariado en la Fundación Bancolombia - reto Universidad de la Sabana.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2138,7 +2237,7 @@ const personas = {
         {
             'name': 'ANGÉLICA MARÍA CORREA CARMONA',
             'img': 'angelicacorrea.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto en su equipo diseñar de cara a la necesidad del cliente. Colídera los siguientes proyectos: Subrogaciones y Saldo Constructor, que hoy están en desarrollo. Gracias a Movilizadores aprendió que primero hay que pararse de cara al cliente, independientemente de los cambios internos que se tengan que dar en el banco.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2149,7 +2248,7 @@ const personas = {
         {
             'name': 'LUZ MARY CORREA ZAPATA',
             'img': 'luzmerycorre.png',
-            'descripton': 'Implementar soluciones basadas en el cliente, 2. Conocer la forma de operar del cliente, 3. Preguntar y nunca suponer.',
+            'descripton': 'Ha propuesto implementar soluciones basadas en el cliente, Conocer la forma de operar del cliente y preguntar, en lugar de suponer.',
             'impacts': {
                 total: 6,
                 facilitacion: 0,
@@ -2160,7 +2259,7 @@ const personas = {
         {
             'name': 'ALEJANDRA CRUZ GAVIRIA',
             'img': 'alejandracruz.png',
-            'descripton': '--',
+            'descripton': 'Ha liderado proyectos como “Automatización Certificados tributario” en el cual realizaron Service Desing. Los beneficios esperados son: Automatización de manera gradual de la generación de la información, logrando así disminuir tiempos de procesamiento en las diferentes áreas que participan en la construcción del Certificado y mitigando el riesgo de errores operativos. La publicación la realizará a través de PARADOC con un nuevo diseño del documento con el objetivo de entregarle al cliente la información clara y amigable; Adicionalmente podrán enviar el certificado por medio de correo electrónico y consultar la información de años anteriores.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2237,7 +2336,7 @@ const personas = {
         {
             'name': 'DIANA MARITZA GALLEGO JIMENEZ',
             'img': 'dianagallego.png',
-            'descripton': '--',
+            'descripton': 'Propuso redefinir el modelo de como estaban realizando las priorizaciones, promover la indagación en la priorización y en la estructuración y tener en cuenta la visión cliente. Participante de un proyecto cuyo beneficio fue cualitativo, ya que los resultados del proceso les sirvieron para definir el mínimo viable del proyecto de Modelo Objetivo de CB.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2248,7 +2347,7 @@ const personas = {
         {
             'name': 'MONICA CECILIA GALLEGO RENGIFO',
             'img': 'monicagallego.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto buscar las soluciones de cara al cliente. Aprendió a indagar y  cuestionar de forma positiva.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2259,7 +2358,7 @@ const personas = {
         {
             'name': 'DANIELA GARCES MUÑOZ',
             'img': 'danielagarces.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto cuestionar más los proyectos, estar centrados en el cliente, validar con él e iterar. Participa en el proyecto “Roboadvisor” en su primer año de ejecución con entregas como negociación de Fondos Valores y acciones a través de Invesbot, consultas del portafolio a través de la SVV, entre otras. Participó en la estructuración de la implementación del App de InvesBot. Y está participando en la estructuración de un proyecto con el Hub de innovación de la BEG conocido como Prometeo que busca ofrecer una solución de financiación a cadenas productivas con un objetivo de modernización.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2303,7 +2402,7 @@ const personas = {
         {
             'name': 'JUAN CAMILO GONZALEZ ARANGO',
             'img': 'juancamilogonzales.png',
-            'descripton': 'Abordar las estructuraciones de otra manera, prototipar propuestas de solución y realizar pedido de presupuesto incrementalmente de acuerdo al resultado de las pruebas y diseño. Como líder en Evolución SVE. Se espera tener una eficiencia de más de $1.500 millones de pesos posterior a su salida a producción. Esta eficiencia se alcanza al ahorrar los costos de la línea de atención, atendiendo y enviando los extractos a los clientes, en vez de esto, estos lo podrán descargar a través de la SVE.',
+            'descripton': 'Ha propuesto abordar las estructuraciones de otra manera, prototipar propuestas de solución y realizar pedido de presupuesto incrementalmente de acuerdo al resultado de las pruebas y diseño. Hoy lidera el proyecto “Evolución SVE” donde se espera tener una eficiencia de más de $1.500 millones de pesos. La cual se alcanza al ahorrar los costos de la línea de atención, donde los extractos a los clientes se podrán descargar a través de la SVE.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2380,7 +2479,7 @@ const personas = {
         {
             'name': 'ANDRÉS DAVID MARQUEZ BENITEZ',
             'img': 'andresmarquez.png',
-            'descripton': 'Agilizar algunos procesos en Excel a través de tablas dinámicas y macros. 2. Que exista una mayor colaboración o cooperación entre los integrantes del equipo. 3. Generar un espacio constante en el cual podamos explorar ideas que beneficien las labores del equipo',
+            'descripton': 'Ha propuesto agilizar algunos procesos en Excel a través de tablas dinámicas y macros. Además, ha contribuido a que exista una mayor colaboración o cooperación entre los integrantes del equipo. Y generar un espacio constante en el cual puedan explorar ideas que beneficien las labores del equipo.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2391,7 +2490,7 @@ const personas = {
         {
             'name': 'LUISA FERNANDA MARTINEZ MORENO',
             'img': 'luisafmartinez.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto no suponer la necesidad del usuario, validar con los usuarios el entendimiento, garantizar que lo que se va a entregar si genera valor. Participante, en general en los proyectos que tienen a cargo, donde pone en práctica algunos de los conceptos aprendidos y que podrían apalancar el buen desarrollo del proyecto.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2435,7 +2534,7 @@ const personas = {
         {
             'name': 'MARIO ALEJANDRO MONTOYA FLOREZ',
             'img': 'mariomontoya.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto una nueva forma de estructurar los proyectos.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2457,7 +2556,7 @@ const personas = {
         {
             'name': 'LUIS DAVID NARANJO SANCHEZ',
             'img': 'luisdavidnaranjo.png',
-            'descripton': 'Establecer nueva forma de atención a los usuarios, Realizar trabajos de campo a la hora de comenzar una implementación. Participante en Robots Inteligentes, Potenciar Adminfo II',
+            'descripton': 'Ha propuesto el establecimiento de una nueva forma de atención a los usuarios y realizar trabajos de campo a la hora de comenzar una implementación. Participante en Robots Inteligentes y Potenciar Adminfo II.',
             'impacts': {
                 total: 50,
                 facilitacion: 0,
@@ -2479,7 +2578,7 @@ const personas = {
         {
             'name': 'MARCELA OROZCO CHAVEZ',
             'img': 'marcelaorozcochavez.png',
-            'descripton': '--',
+            'descripton': 'Ha propuesto pensar más en el cliente, buscar soluciones más innovadoras y utilizar las metodologías de diseño para estructurar las necesidades. Líder del proyecto  “Garantías y Avalúos”, el cual está en ejecución.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2523,7 +2622,7 @@ const personas = {
         {
             'name': 'MARIA CAMILA RESTREPO CANO',
             'img': 'camilarestrepocano.png',
-            'descripton': '--',
+            'descripton': 'Aprendió a entender mejor las necesidades y los problemas para crear soluciones acertadas.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2556,7 +2655,7 @@ const personas = {
         {
             'name': 'SANDRA CATALINA SOTO LONDOÑO',
             'img': 'sandrasoto.png',
-            'descripton': 'Manejo de entrevistas con clientes; Pensar en funcionalidades desde el cliente y validándolas siempre con ellos. Aunque no he tenido un proyecto de principio a fin bajo la metodología he participado en actividades puntuales como validaciones con clientes que me ha permitido poner en práctica los conceptos aprendidos.',
+            'descripton': 'Ha propuesto pensar en funcionalidades desde el cliente y validándolas siempre con ellos. Ha participado en actividades puntuales como validaciones con clientes que le ha permitido poner en práctica los conceptos aprendidos.',
             'impacts': {
                 total: 0,
                 facilitacion: 0,
@@ -2600,7 +2699,7 @@ const personas = {
         {
             'name': 'SANDRA MILENA VALENCIA TAFUR',
             'img': 'sandravalencia.png',
-            'descripton': 'Que las otras áreas se alimenten del mismo programa donde tenemos la info de proyectos. Participante del Proyecto Ventas Digitales.',
+            'descripton': 'Ha propuesto que las otras áreas se alimenten del mismo programa donde tienen la información de proyectos. Participante del Proyecto Ventas Digitales.',
             'impacts': {
                 total: 23,
                 facilitacion: 0,
